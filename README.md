@@ -4,8 +4,10 @@
 ## 游玩画面  
 <img src="https://i.loli.net/2019/09/24/N9AwMQPuvfWyXYo.png" width="70%" />  
 
-<center class="half"><img src="https://i.loli.net/2019/09/24/k4MKSbT6LGH7Nx8.png" width="70%" />  
-<img src="https://i.loli.net/2019/09/24/WtUREdye1m8BO9K.png" width="70%" /></center>  
+<center class="half">
+  <img src="https://i.loli.net/2019/09/24/k4MKSbT6LGH7Nx8.png" width="70%" />
+  <img src="https://i.loli.net/2019/09/24/WtUREdye1m8BO9K.png" width="70%" />
+</center>  
 
 ## Story 
 故事发生在一个七月半的晚上，因为复习，回家时间已经很晚了，杜瑞快步穿过校园准备回家，可是走到一半接到了好友的电话，在电话里对方什么也没说，只是任由雨点敲击声传来，担心好友的杜瑞立刻冒雨去寻找，跑过几个昏黄的路口，一个又一个的士消失在视野，人也越来越少，终于在一个转角，杜瑞见到了呆呆盯着手机的好友——楚曦。  
